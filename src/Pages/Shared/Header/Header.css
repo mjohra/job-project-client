@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500&family=Inconsolata:wght@400&family=Noto+Serif&display=swap');
+.nav-detail a{
+    font-size:20px;
+    font-weight: bold;
+    color:black;
+    font-family: 'Inconsolata', monospace;
+    text-decoration: none;
+}
+
+.title{
+    font-family: 'IM Fell English SC', serif;
+    font-weight: 600;
+    color:Black;
+}
+.nav-detail{
+     background-color:#f0f0f0; 
+     margin-bottom:20px;
+     color:black;
+   
+    
+}
+.logOut-btn{
+    background-color:white;
+    border:none;
+    color:rgb(10, 10, 10);
+    font-size:20px;
+    font-weight: bold;
+    font-family: 'Inconsolata', monospace;
+    text-decoration: none;
+}
+.btn-design{
+    background-color:rgba(252, 252, 252, 0.384);
+    border:1px solid rgb(0, 0, 0);
+    color:rgb(10, 10, 10);
+    font-size:20px;
+    font-weight: bold;
+    text-decoration: none;
+
+}
